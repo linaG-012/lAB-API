@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pkeDOKd0NsXwq/BwIVomMPWjeUz702z+7KoB4z+ktMy8JoibNvzgQh6oSl8CXZT43yBsmx8APSQalhkneBN9qQ==",
+  "dgSpecHash": "Awzar62LrkBnjerThpoLdvvEtcemqEryf+zq+Eb/i7lRRBdxIMvo5TGlxNW78RvuGgI/Y1M3pbcCYa6z9eEFvA==",
   "success": true,
-  "projectFilePath": "C:\\Git Devops\\motorcicle\\motodevlop\\motodevlop.csproj",
+  "projectFilePath": "C:\\LAB_API\\lAB-API\\motodevlop\\motodevlop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\familia\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.8\\microsoft.aspnetcore.authentication.negotiate.6.0.8.nupkg.sha512",
-    "C:\\Users\\familia\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.8\\microsoft.aspnetcore.connections.abstractions.6.0.8.nupkg.sha512",
-    "C:\\Users\\familia\\.nuget\\packages\\microsoft.extensions.features\\6.0.8\\microsoft.extensions.features.6.0.8.nupkg.sha512",
-    "C:\\Users\\familia\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
-    "C:\\Users\\familia\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+    "C:\\Users\\Ambiente\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.8\\microsoft.aspnetcore.authentication.negotiate.6.0.8.nupkg.sha512",
+    "C:\\Users\\Ambiente\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.8\\microsoft.aspnetcore.connections.abstractions.6.0.8.nupkg.sha512",
+    "C:\\Users\\Ambiente\\.nuget\\packages\\microsoft.extensions.features\\6.0.8\\microsoft.extensions.features.6.0.8.nupkg.sha512",
+    "C:\\Users\\Ambiente\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\Ambiente\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }
